@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">13_QiangHongBao</string>
+    <string name="desc">抢红包服务开启与关闭</string>
+    <string name="help">
+        当点击按钮出错或者设置无效时，可以尝试以下操作\n
+        1.抢红包服务开启与关闭：\n
+        &#160;&#160;设置->辅助功能（无障碍）->13_QiangHongBao->服务开启/关闭\n
+        2.锁屏时运行：\n
+        &#160;“设置->电池管理->受保护应用”中设置13_QiangHongBao为受保护应用\n
+        \n
+    </string>
+</resources>
